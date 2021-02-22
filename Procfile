@@ -1,0 +1,1 @@
+web: pip install . -U && toolbox_mg-run
